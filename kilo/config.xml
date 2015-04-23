@@ -1,0 +1,11 @@
+<widget id="com.nicholas.hello" version="0.0.1">
+	<name>HelloWorld</name>
+	<description>
+		A sample Nicholas application.
+	</description>
+	<author email="nicholas1976@hotmail.it" href="http://www.ratataplan.it">
+		Nicholas Team
+	</author>
+	<content src="index.html" />
+	<access origin="*" />
+</widget>
